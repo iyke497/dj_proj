@@ -1,3 +1,5 @@
 .venv/*
 mysite/mysite/__pycache__/*
 mysite/db.sqlite3
+mysite/polls/__pycache__/*
+__pycache__/*
