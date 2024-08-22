@@ -3,4 +3,5 @@ mysite/mysite/__pycache__/*
 mysite/db.sqlite3
 mysite/polls/__pycache__/*
 __pycache__/*
-mystie/polls/migrations/__pycache__/*
+mysite/polls/migrations/__pycache__/*
+**/__pycache__/
