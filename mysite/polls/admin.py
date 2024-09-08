@@ -5,5 +5,5 @@ from .models import Question
 
 @admin.register(Question)
 class QuestionAdmin(admin.ModelAdmin):
-	fields = ["question_text"]
+	fields = ["question_text", "pub_date"]
 
